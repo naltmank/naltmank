@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Noam, a 5th year PhD candidate at Georgia Tech in Mark Hay's lab.
+
+I'm interested in how humans affect species interactions on coral reefs. I tend to focus on interactions between corals, algae, and fishes.
+
 <!--
 **naltmank/naltmank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
