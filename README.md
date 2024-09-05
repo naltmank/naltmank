@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hello!
 
-I'm Noam, a 5th year PhD candidate at Georgia Tech in Mark Hay's lab.
+My name is Noam Altman-Kurosaki. I'm a marine ecologist interested in the mechanisms that drive coral reef decline and recovery. I'm currently a PhD Candidate in the Hay Lab at Georgia Tech. I received my BA in Ecology and Evolutionary Biology from Princeton University in 2016 and my MSc in Marine Biology from the University of Hawai'i at Manoa in 2019.
 
-I'm interested in how humans affect species interactions on coral reefs. I tend to focus on interactions between corals, algae, and fishes.
+## Research Interests
+
+While my interests are broad, I tend to take an experimental approach to understand how interactions between corals, algae, and fish are affected by stressors at global and local scales. Oftentimes this means spending long days swimming around the lagoons of Mo'orea, French Polynesia, where I conduct most of my work.
 
 <!--
 **naltmank/naltmank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
